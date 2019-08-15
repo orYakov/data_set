@@ -8,4 +8,4 @@ In order to get the data set, run these commands as a code block in google colab
 ! pip3 install torch
 ! pip install soundfile
 ```
-Now run your network code as usual.
+Now run your neural network code.
